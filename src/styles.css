@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+ul{
+    list-style: none;
+    list-style-type: none;
+}
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
